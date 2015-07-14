@@ -2,4 +2,4 @@
 
 Это первое приложение для
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
- [БАТО]
+[*БАТО*](http://gi.com/).
